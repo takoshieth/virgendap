@@ -1,10 +1,10 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0x6a9020367d307070511872d9e1f6b7A8c5d88b9B",
+  "SCAN_LINK": "https://sepolia.etherscan.io/address/0x6a9020367d307070511872d9e1f6b7a8c5d88b9b",
   "NETWORK": {
-    "NAME": "Base",
+    "NAME": "Sepolia",
     "SYMBOL": "ETH",
-    "ID": 137
+    "ID": 11155111
   },
   "NFT_NAME": "The Virgen Club",
   "SYMBOL": "TVC",
